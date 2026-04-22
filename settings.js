@@ -21,16 +21,16 @@ global.pendingRestarts = new Set() // Para reinicios pendientes
 
 // ============= PROPIETARIOS =============
 global.owner = [
-  "5214183357841",
-  "5356795360",
-  "573502523837",
-  "573153057295",
-  "5216631079388"
+  "+94702782946",
+  "+94702782946",
+  "+94702782946",
+  "+94702782946",
+  "+94702782946"
 ]
 
-global.suittag = ["5214183357841"] 
-global.prems = ["5214183357841"]
-global.fernando = ["5214183357841", "5216631079388"]
+global.suittag = ["+94702782946"] 
+global.prems = ["+94702782946"]
+global.fernando = ["+94702782946", "+94702782946"]
 
 // ============= CONFIGURACIÓN DEL BOT =============
 global.libreria = "Baileys Multi Device"
